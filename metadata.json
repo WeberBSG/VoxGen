@@ -1,0 +1,5 @@
+{
+  "name": "VoxGen AI",
+  "description": "Advanced Text-to-Speech generator using Gemini 2.5 Flash. Features voice selection, style control, speed/pitch adjustments, and sound effect tags.",
+  "requestFramePermissions": []
+}
